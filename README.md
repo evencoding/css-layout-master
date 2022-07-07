@@ -8,7 +8,7 @@
 - [✅] align-content
 - [✅] flex-grow
 - [✅] flex-shrink
-- [✅] flex-basis
+- [✅] flex-basis #;;
 
 ## Grid:
 
@@ -32,6 +32,16 @@
 - [] grid-row
 - [] justify-self
 - [] align-self
+
+### Keywords & Functions:
+
+- [] repeat
+- [] fr
+- [] minmax
+- [] min-content
+- [] max-content
+- [] auto-fit
+- [] auto-fill
 
 ## SCSS:
 
